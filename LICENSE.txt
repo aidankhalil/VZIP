@@ -1,0 +1,8 @@
+EDUCATIONAL USE NOTICE
+
+This project was created as coursework for the University of South Florida and is provided for educational and archival purposes only.
+
+Reuse in academic settings where this material is still in use may violate course policies.  
+No license is granted for redistribution, commercial use, or derivative works without prior consent.
+
+Copyright (c) 2024 Aidan Khalil
